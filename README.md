@@ -1,7 +1,7 @@
 # Snake-and-Ladder
 
-<h1>ABOUT PROJECT</h1>
+<h2>ABOUT PROJECT</h2>
 <p> In this game, Players roll a die and navigate the board. Landing on a ladder advances a player to a square further up the board, while landing on a snake means they have to go back to a previous square. </>
 
-<h2>TECHNOLOGY USED:</h2>
-<h3><strong>PYTHON</strong></h3>
+<h3>TECHNOLOGY USED:</h3>
+<h2><strong>PYTHON</strong></h2>
